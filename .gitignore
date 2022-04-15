@@ -1,2 +1,5 @@
 # exclude mac os file
 .DS_Store
+
+# exclude ignore file
+.gitignore
