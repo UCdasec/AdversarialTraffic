@@ -36,7 +36,7 @@ See the project's directories for usage information.
 When reporting results that use the dataset or code in this repository, please cite:
 
 Hao Liu, Jimmy Dani, Hongkai Yu, Wenhai Sun, Boyang Wang, "AdvTraffic: Obfuscating Encrypted Traffic with
-Adversarial Examples", IEEE/ACM International Symposium on Quality of Service (**IEEE/ACM IWQoS 2022**), June, 2022.
+Adversarial Examples", the 30th IEEE/ACM International Symposium on Quality of Service (**IEEE/ACM IWQoS 2022**), June, 2022.
 
 ## Contacts
 Hao Liu, liu3ho@mail.uc.edu
